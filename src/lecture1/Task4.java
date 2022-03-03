@@ -1,7 +1,6 @@
-package com.company;
+package lecture1;
 
-public class Main {
-
+public class Task4 {
     public static void main(String[] args) {
         String name1 = "Zhan";
         String name2 = "Asd";
@@ -13,5 +12,4 @@ public class Main {
 
         System.out.println("Happy New Year");
     }
-
 }
